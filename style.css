@@ -1,0 +1,14 @@
+.body {
+    font-family: "Helvetica", "Times New Roman", "Sans-Serif";
+}
+
+.header {
+    font-weight: bolder;
+    color: goldenrod;
+    font-size: 36px;
+}
+
+.recipes-list {
+    list-style-type: none;
+    font-size: 24px;
+}
